@@ -3,7 +3,7 @@
 
 Cube Game is a lightweight, browser-based game built using HTML, CSS, and JavaScript, where players control a cube that dodges obstacles and collects points. Designed with simplicity and smooth gameplay in mind, the game is a fun way to demonstrate basic game logic, DOM manipulation, and interactive UI design.
 
-🔧 Features:
+🔧 Features->
 	•	🚀 Real-time movement using keyboard controls
 	•	🎯 Dynamic obstacles with increasing difficulty
 	•	🎨 Minimalistic UI with clean CSS styling
